@@ -1,1 +1,1 @@
-Visit Live Site at : https:kronos-sscbs-21.github.io/kronos-site
+Visit Live Site at : [https://kronos-sscbs-21.github.io/kronos-site](https://kronos-sscbs-21.github.io/kronos-site)
