@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import { About } from '@/components/About/About'
+import Events from '@/components/About/Events'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,7 +20,7 @@ export default function Home() {
         {/* <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"></link> */}
         {/* <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> */}
       </Head>
-      <About />
+      <Events />
     </>
   )
 }
